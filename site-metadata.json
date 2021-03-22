@@ -5,7 +5,7 @@
     "header": {
         "type": "header",
         "logo_img": "/images/logo.png",
-        "logo_img_alt": "Logo",
+        "logo_img_alt": "Logo - Pistoia Alliance",
         "has_nav": true,
         "nav_links": [
             {
