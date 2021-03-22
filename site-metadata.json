@@ -1,6 +1,6 @@
 {
     "title": "UIKB",
-    "palette": "green",
+    "palette": "cyan",
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
