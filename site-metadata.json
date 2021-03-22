@@ -1,7 +1,7 @@
 {
     "title": "UIKB",
     "palette": "cyan",
-    "base_font": "nunito-sans",
+    "base_font": "fira-sans",
     "header": {
         "type": "header",
         "logo_img": "/images/logo.png",
