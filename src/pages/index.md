@@ -8,7 +8,7 @@ sections:
       UIKB, short for Universal integration Knowledge Base, is a common pool for
       displaying vendor, instrumentation and integration data for the benefit of
       the public across various vendors.
-    image: images/hero.png
+    image: /images/terrific-elm.png
     image_alt: App preview
     actions:
       - type: action
